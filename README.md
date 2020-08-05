@@ -1,7 +1,6 @@
 # Cpp-mini-Project
 <ul>
  <li> C++ mini
-   
    project by</li>
   </ul>
 Varun Rathore(9917103107)<br/>
