@@ -1,6 +1,8 @@
 # Cpp-mini-Project
 <ul>
- <li> C++ mini project by</li>
+ <li> C++ mini
+   
+   project by</li>
   </ul>
 Varun Rathore(9917103107)<br/>
 Lalit Garg(9917103126)<br/>
